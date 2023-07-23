@@ -6,7 +6,7 @@
 
 
 # how to use : 
-  - simply change the data in the src/files.js file , the structure must not be change though !
+  - simply change the data in the src/files.js file , the structure must not be changed though !
 
 # Live demo : 
  - https://file-tree-gadget.vercel.app/
